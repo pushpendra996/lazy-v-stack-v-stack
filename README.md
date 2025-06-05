@@ -1,9 +1,9 @@
 # SwiftUI LazyVStack vs VStack – Performance Explained with Real Example
 
-[![Watch on YouTube](Image.png)](https://youtu.be/ecDke6DN3qw)
+[![Watch on YouTube](Image.png)](https://youtu.be/VJ4ULHsS6vE)
 
 🚀 **Video Title**: LazyVStack vs VStack in SwiftUI | SwiftUI Performance Tips | SwiftUI Interview Questions  
-🎥 **Watch Now**: [YouTube Video](https://youtu.be/ecDke6DN3qw)  
+🎥 **Watch Now**: [YouTube Video](https://youtu.be/VJ4ULHsS6vE)  
 📂 **Playlist**: [SwiftUI Master Series](https://www.youtube.com/playlist?list=PL2Sk-NhO3icG_QURMdvp-1Ap_w5ya0L8m)
 
 ---
